@@ -1,5 +1,5 @@
 <template>
-    <span>&copy; {{ new Date().getFullYear() }}</span>
+    <span>&copy; Burner Game Studio {{ new Date().getFullYear() }}</span>
 </template>
 
 <script>
